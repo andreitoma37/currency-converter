@@ -1,5 +1,5 @@
 # currency-converter
-I used an api , to convert my currencies to another one
+I used an api , to convert a currencies to another one
 
 currency converter
 I used javascript to call an api and change the values of some variables
